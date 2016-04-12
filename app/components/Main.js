@@ -1,5 +1,5 @@
 var React = require('react');
-var ReactDOM = require('react-dom');
+//var ReactDOM = require('react-dom');
 
 var Main = React.createClass({
    render: function(){
@@ -11,4 +11,4 @@ var Main = React.createClass({
    }
 });
 
-ReactDOM.render(<Main />, document.getElementById('app'));
+//ReactDOM.render(<Main />, document.getElementById('app'));
